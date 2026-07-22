@@ -1,0 +1,16 @@
+{
+  "name": "food-donating-app-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.2",
+    "dotenv": "^16.4.2",
+    "express": "^4.21.2",
+    "mongodb-memory-server": "^10.1.0",
+    "mongoose": "^8.8.3"
+  }
+}
